@@ -1,2 +1,2 @@
 # chengxuba
-Its a personal blog^_^
+Its a personal blog
